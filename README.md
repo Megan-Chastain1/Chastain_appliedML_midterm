@@ -119,6 +119,9 @@ Compare performance of all models across the same performance metrics.
 
 ### 9. Final Thoughts & Insights
 For my project I found that a logistical regression model works decently well at predicting heart disease. The future of healthcare can be improved with the use of model based early detection systems. Even though there may be false positives, it's better to include too many than miss one.
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 4fe8cfb4751daf6aa6bcb6fad8115378e68d18e1
