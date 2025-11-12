@@ -3,17 +3,14 @@
 
 
 
-site_name: Applied ML Project
-site_url: https://megan-chastain1.github.io/applied-ml-Chastain/
-repo_url: https://github.com/Megan-Chastain1/applied-ml-Chastain
-site_description: Professional applied ML project
+site_name: Applied ML Midterm
+site_url: https://megan-chastain1.github.io/Chastain_appliedML_midterm/
+repo_url: https://github.com/Megan-Chastain1/Chastain_appliedML_midterm
+site_description: Professional applied ML mditerm project
 site_author: Megan Chastain
 docs_dir: docs
 site_dir: site
-jobs:
-  deploy:
-    environment:
-      name: github-pages
+
 theme:
   name: material
   features:
@@ -64,12 +61,6 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Project 01:
-      - Overview: project01/README.md
-      - Example Analysis: project01/EXAMPLE_ANALYSIS.md
-  - Project 02:
-      - Overview: project02/README.md
-  - Project 03:
-      - Overview: project03/README.md
-  - Project 04:
-      - Overview: project04/README.md
+  - Midterm Project:
+      - Overview: project/README.md
+   
